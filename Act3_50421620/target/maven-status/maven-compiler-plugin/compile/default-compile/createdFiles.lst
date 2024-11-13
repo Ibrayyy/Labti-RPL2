@@ -1,0 +1,4 @@
+me\zaki\mahasiswa\controller\MahasiswaController.class
+me\zaki\mahasiswa\model\MahasiswaDAO.class
+me\zaki\mahasiswa\model\ModelMahasiswa.class
+me\zaki\mahasiswa\view\MahasiswaView.class
